@@ -12,3 +12,4 @@ https://github.com/prometheus/mysqld_exporter
 ### Apache exporter 
 https://machineperson.github.io/monitoring/2016/01/04/exporting-apache-metrics-to-prometheus.html
 https://github.com/Lusitaniae/apache_exporter
+### https://ocsinventory-ng.org/
